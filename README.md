@@ -1,11 +1,11 @@
 # Code_weighted_multiplex_ensembles
 This repository contains:
 
-1)'code_entropy_duplex.m' a Matlab function for the computation of the entropy value and the related Lagrangian multipliers for a canonical duplex ensemble with given expected multidegree and multistrength.
+1) 'code_entropy_duplex.m' a Matlab function for the computation of the entropy value and the related Lagrangian multipliers for a canonical duplex ensemble with given expected multidegree and multistrength.
 
-2)'main_single_instance.m' a Matlab script for the generation of a new duplex. It requires as INPUT, Z,T01, T10, T11, D01b, D10a, D11a, D11b, matrices hat are the results of 'code_entropy_duplex.m'. This script calls the function 'duplexsingleinstance.m'
+2) 'main_single_instance.m' a Matlab script for the generation of a new duplex. It requires as INPUT, Z,T01, T10, T11, D01b, D10a, D11a, D11b, matrices hat are the results of 'code_entropy_duplex.m'. This script calls the function 'duplexsingleinstance.m'
 
-3)'duplexsingleinstance.m',  see the script "main_single_instance.m" for explanations
+3) 'duplexsingleinstance.m',  see the script "main_single_instance.m" for explanations
 
 This program is distributed by the authors in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. If you use this code you should cite:
 
